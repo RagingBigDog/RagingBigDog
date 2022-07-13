@@ -1,4 +1,4 @@
-## Hello! 🙋‍♂️ I’m Storm Holloway. Although my handle is RagingBigDog 😁. 
+## Hello! 🙋‍♂️ I’m Storm Holloway. Although my handle is RagingBigDog 🐩. 
 
 ## ✨ About me
 
