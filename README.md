@@ -12,7 +12,7 @@
 
 ## 📱 How to reach me
 
-![discord (4)](https://user-images.githubusercontent.com/59346437/178848996-d4460f60-4cba-4810-b868-689af1d0d081.png) Discord - NightHawk#2336
+![discord (4)](https://user-images.githubusercontent.com/59346437/178848996-d4460f60-4cba-4810-b868-689af1d0d081.png) Discord: NightHawk#2336
 
 📧 Email: deadlyninja4@gmail.com
 
