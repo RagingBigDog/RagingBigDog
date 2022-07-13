@@ -16,7 +16,10 @@
 
 📧 Email: deadlyninja4@gmail.com
 
-(<a href="https://iconscout.com/icons/discord" target="_blank">Discord Icon</a> is by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>)
+
+
+###### *(<a href="https://iconscout.com/icons/discord" target="_blank">Discord Icon</a> is by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>)
+
 <!---
 RagingBigDog/RagingBigDog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
