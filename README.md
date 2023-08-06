@@ -12,7 +12,7 @@
 
 ## 📱 How to reach me
 
-![discord (4)](https://user-images.githubusercontent.com/59346437/178848996-d4460f60-4cba-4810-b868-689af1d0d081.png) Discord: NightHawk#2336
+![discord (4)](https://user-images.githubusercontent.com/59346437/178848996-d4460f60-4cba-4810-b868-689af1d0d081.png) Discord: ragingbigdog
 
 ![linkedinResized](https://user-images.githubusercontent.com/59346437/179131155-d417c7ce-ed6d-4dfe-98f9-5b69895ff640.png) LinkedIn: https://www.linkedin.com/in/storm-holloway-677b04143/
 
