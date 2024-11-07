@@ -2,9 +2,9 @@
 
 ## ✨ About me
 
-🎓 I have a B.S. in IT with a focus in cybersecurity and information assurance. Currently looking for a job in my field to gain more experience as I currently am depot staff for a newspaper distribution warehouse.
+🎓 I have a B.S. in IT with a focus in cybersecurity and information assurance. Am currently looking for a job while I freelance.
 
-📜 I have a little knowledge in quite a few different areas such as Python, JS, SQL, Azure, AWS, Linux (primarily Debian-based Distros), Windows OS, VSC, and Github. Am currently working on increasing my knowledge of Python and building a Discord bot using it. 
+📜 I am knowledgeable in Python, SQL, AWS, Windows OS, VSC, and Github as my current project uses those. I have working knowledge in JS, Azure, and Linux (primarily Debian-based Distros). I have a little knowledge in web scraping. I am very passionate about AI/ML.
 
 🎧 Outside of the IT world, I enjoy learning new skills, and improving them, ranging from guitar, writing music, animating, and fantasy football, as well as playing board and video games (though only aiming to master guitar and animating).
 
